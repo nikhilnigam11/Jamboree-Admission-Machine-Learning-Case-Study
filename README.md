@@ -8,6 +8,7 @@ This project analyzes factors influencing graduate school admissions and builds 
 
 Key Features:
 ✅ Exploratory Data Analysis (EDA) with visualizations
+
 ✅ Multicollinearity handling using VIF & correlation analysis
 ✅ Linear Regression model with 81.8% accuracy (R²)
 ✅ Assumption testing (Homoscedasticity, Normality, Linearity)

@@ -4,14 +4,19 @@ Graduate Admission Predictor
 A Linear Regression Model to Predict Admission Chances for Graduate Programs
 
 📌 Overview
+
 This project analyzes factors influencing graduate school admissions and builds a predictive model to estimate a student's chance of admission using Linear Regression. The dataset includes academic metrics (GRE, TOEFL, CGPA), university ratings, and research experience.
 
 Key Features:
+
 ✅ Exploratory Data Analysis (EDA) with visualizations
 
 ✅ Multicollinearity handling using VIF & correlation analysis
+
 ✅ Linear Regression model with 81.8% accuracy (R²)
+
 ✅ Assumption testing (Homoscedasticity, Normality, Linearity)
+
 ✅ Actionable insights for students and educational consultants
 
 🔍 Key Findings
